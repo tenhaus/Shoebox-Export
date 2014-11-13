@@ -51,9 +51,9 @@ class ShoeboxExporter
     }
     else
     {
-      echo "Downloading\n";
       $data = file_get_contents($url);
       file_put_contents($fullPath, $data);
+      echo "Done\n";
     }
   }
 
