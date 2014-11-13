@@ -15,3 +15,4 @@ With that file, run php ShoeboxExporter.php Shoebox-Export-2014-11-12.msbx /tmp
 
 And of course, replace the parameters with your export file, and the directory you want to save your photos to.
 
+If you have any problems you can email chayen@gmail.com
